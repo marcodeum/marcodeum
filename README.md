@@ -1,22 +1,21 @@
-\##MEU PERFIL
+# MEU PERFIL
 
 
-
-\#Sou Marco
-
-
+## Sou Marco Túlio
 
 * Brasileiro
 * Estudante do curso de "Programação com Java e C#"
 * Natural de João Monlevade - MG
 
-
-
-\#Meus Objetivos
-
-
+## Meus Objetivos
 
 * Ganhar muito dinheiro
 * Dominar a lógica de programação
 * Aprender mais sobre as linguagens de programação
-"# marcodeum" 
+
+## Minha Experiência
+
+* Classificado 2 Fase OBMEP
+* CLassificado 2 Fase OIM
+* Cursando 2 ano do Ensino Médio
+* Tive um relacionamento de 3 anos
