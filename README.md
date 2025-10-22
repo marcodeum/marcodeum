@@ -29,7 +29,6 @@
 * Classificado 2 Fase OBMEP
 * CLassificado 2 Fase OIM
 * Cursando 2 ano do Ensino Médio
-* Tive um relacionamento de 3 anos
 
 
 
