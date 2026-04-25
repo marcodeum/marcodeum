@@ -4,7 +4,10 @@ Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softw
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🤖 Linguagens
-![HTML](https://camo.githubusercontent.com/9126ea765f2675933491c3919c77fd441105a28b04848b7f8b9b6a83b3b755e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
