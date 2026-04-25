@@ -31,8 +31,8 @@ ________________________________________________________________________________
 ## 💾 Bancos de Dados
   
 <p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="60" alt="sqlite"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="70" alt="mysql"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="70" alt="sqlite"/>
 </p>
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
