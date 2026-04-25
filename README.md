@@ -1,5 +1,5 @@
 # Bem-vindo, sou o Marco Túlio
-Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softwares, apps e sistemas da melhor forma
+Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softwares, apps e sistemas
 🌐 Powered by Deum
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
