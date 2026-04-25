@@ -22,7 +22,6 @@ ________________________________________________________________________________
 ## 💡 IDEs
 
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="50" alt="eclipse"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50" alt="intellij"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="50" alt="visualstudio"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode"/>
