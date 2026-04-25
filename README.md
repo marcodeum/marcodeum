@@ -1,44 +1,16 @@
-# 🤑-MEU PERFIL-🤑
+# Bem-vindo, sou o Marco Túlio
+Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softwares, apps e sistemas da melhor forma
+🌐 Powered by Deum
 
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+## 🤖 Tecnologias
+* Linguagens: Java, C#, PHP e HTML
+* Banco de Dados: MySQL, SQLite
+* Ferramentas: GitHub, VSCode, Visual Studio, IntelliJ
 
-## Sou Marco Túlio
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-
-* Brasileiro
-* Estudante do curso de "Programação com Java e C#"
-* Natural de João Monlevade - MG
-
-
-
-## Meus Objetivos
-
-
-
-* Ganhar muito dinheiro
-* Dominar a lógica de programação
-* Aprender mais sobre as linguagens de programação
-
-
-
-## Minha Experiência
-
-
-
-* Classificado 2 Fase OBMEP
-* CLassificado 2 Fase OIM
-* Cursando 2 ano do Ensino Médio
-
-
-
-## Meus Projetos
-
-
-
-* Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso
-
-
-
-◈ Projeto 1 - Em desenvolvimento...
-
+## ✉️ Contatos
+* Email: marco.souza300322@gmail.com
+* GitHub: https://github.com/marcodeum
