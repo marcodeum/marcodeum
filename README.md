@@ -3,19 +3,18 @@ Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softw
 🌐 Powered by Deum
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## 🤖 Linguagens
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9d3b8d2c-e662-495b-856b-90da5874c412" /> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/76d4f08e-0524-4e05-ac89-4080762d8e7a" /> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/15eae4d5-5da2-4bd2-9926-74e8d9170cd1" />
-
+![C#](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg)
+![Java](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
+![PHP](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## ✉️ Contatos
-* Email: marco.souza300322@gmail.com
-* GitHub: https://github.com/marcodeum
-* WhatsApp: (31) 99429-5932
+
   
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
+## ✉️ Contatos
+* [Email:](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): marco.souza300322@gmail.com
+* [WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white): (31) 99429-5932
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📖 Salmos 28:7
 
