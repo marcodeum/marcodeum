@@ -21,5 +21,6 @@ ________________________________________________________________________________
 * https://github.com/victorluansilva
   
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-📖 Salmos 28:7
+### 📖 Salmos 28:7
+
 O Senhor é a minha força e o meu escudo; nele o meu coração confia, e dele recebo ajuda. O meu coração exulta de alegria, e com o meu cântico lhe darei graças
