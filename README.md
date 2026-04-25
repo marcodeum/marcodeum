@@ -4,7 +4,7 @@ Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softw
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🤖 Linguagens
-### ![C#](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg) ![Java](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg) ![PHP](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg)
+![HTML](https://camo.githubusercontent.com/9126ea765f2675933491c3919c77fd441105a28b04848b7f8b9b6a83b3b755e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
