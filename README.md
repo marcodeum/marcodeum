@@ -1,5 +1,6 @@
 # 👋 Bem-vindo, sou o Marco Túlio
 Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softwares, apps e sistemas
+
 Pretendo fazer Engenharia de Softwares
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🎓 Formações
