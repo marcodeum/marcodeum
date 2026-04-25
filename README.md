@@ -24,12 +24,11 @@ ________________________________________________________________________________
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="50" alt="eclipse"/> 
   </p>
   _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## 💾 Bancos de Dados
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="50" alt="sqlite"/>
-  </p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="50" alt="sqlite"/>
+</p>
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## ✉️ Contatos
