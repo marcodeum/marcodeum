@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Marco Túlio
 
 <p align="left">
-  💻 <strong>Técnico em TI</strong> • Desenvolvedor Júnior <br>
-  ☕ Java • C# • PHP <br>
+  💻 <strong>Técnico em Informática (em formação)</strong> • Desenvolvedor Júnior <br>
+  ☕ Java • C# .NET • PHP • SQL <br>
   📍 Brasil <br>
   🎯 Buscando minha primeira oportunidade na área de desenvolvimento de software.
 </p>
@@ -11,9 +11,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Técnico em TI e Desenvolvedor Júnior, com foco em desenvolvimento de software.
+Sou estudante de Técnico em Informática e Desenvolvedor Júnior, com foco em desenvolvimento de software.
 
-Tenho experiência na criação de aplicações utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais.
+Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais.
 
 Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
 
@@ -23,9 +23,9 @@ Atualmente busco evoluir constantemente por meio de estudos, projetos práticos 
 
 ## 🎓 Formação
 
-- 🎓 Técnico em TI — SENAI (Em andamento)
-- ☕ Programação com Java e C# — SENAI
-- 💻 Desenvolvimento de Software — SENAI
+- 🎓 Técnico em Informática — SENAI (Em andamento)
+- ☕ Programação com Java e C# .NET — SENAI
+- 💻 Metodologias de Desenvolvimento de Software — SENAI
 
 ---
 
@@ -59,7 +59,8 @@ Atualmente busco evoluir constantemente por meio de estudos, projetos práticos 
 - Modelagem de Banco de Dados
 - MySQL
 - SQLite
-
+- Desenvolvimento de CRUDs
+  
 ---
 
 ## 🛠️ Ferramentas
@@ -115,19 +116,6 @@ Aplicação para automatizar o desligamento do computador.
 **Tecnologias:** Java
 
 🔗 **Repositório:** [Shutdown Scheduler](https://github.com/marcodeum/ShutdownScheduler)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
 
 ---
 
