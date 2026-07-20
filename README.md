@@ -4,16 +4,16 @@
   💻 <strong>Técnico em TI</strong> • Desenvolvedor Júnior <br>
   ☕ Java • C# • PHP <br>
   📍 Brasil <br>
-  🎯 Em busca da minha primeira oportunidade como Desenvolvedor de Software.
+  🎯 Buscando minha primeira oportunidade na área de desenvolvimento de software.
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou Técnico em TI e Desenvolvedor Júnior, sempre em busca de novos conhecimentos.
+Sou Técnico em TI e Desenvolvedor Júnior, com foco em desenvolvimento de software.
 
-Tenho experiência no desenvolvimento de aplicações desktop e web utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais.
+Tenho experiência na criação de aplicações utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais.
 
 Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
 
@@ -35,6 +35,7 @@ Atualmente busco evoluir constantemente por meio de estudos, projetos práticos 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
@@ -56,6 +57,8 @@ Atualmente busco evoluir constantemente por meio de estudos, projetos práticos 
 
 - SQL
 - Modelagem de Banco de Dados
+- MySQL
+- SQLite
 
 ---
 
@@ -73,11 +76,11 @@ Atualmente busco evoluir constantemente por meio de estudos, projetos práticos 
 
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Projetos em Destaque
 
 ### 🖩 WinForms Calculator
 
-Calculadora desenvolvida em **C#** utilizando **Windows Forms**.
+Aplicação desktop de calculadora para Windows.
 
 **Tecnologias:** C# • Windows Forms
 
@@ -87,7 +90,7 @@ Calculadora desenvolvida em **C#** utilizando **Windows Forms**.
 
 ### 👥 CRUD de Usuários
 
-Sistema CRUD desenvolvido em **Java**, permitindo cadastro, consulta, edição e exclusão de usuários.
+Sistema CRUD desenvolvido para permitir cadastro, consulta, atualização e exclusão de usuários.
 
 **Tecnologias:** Java
 
@@ -97,7 +100,7 @@ Sistema CRUD desenvolvido em **Java**, permitindo cadastro, consulta, edição e
 
 ### 📞 Agenda de Contatos
 
-Sistema para gerenciamento de contatos desenvolvido em **Java**.
+Sistema para gerenciamento de contatos.
 
 **Tecnologias:** Java
 
@@ -107,7 +110,7 @@ Sistema para gerenciamento de contatos desenvolvido em **Java**.
 
 ### ⏻ ShutdownScheduler
 
-Aplicação desenvolvida em **Java** para automatizar o desligamento do computador.
+Aplicação para automatizar o desligamento do computador.
 
 **Tecnologias:** Java
 
@@ -140,6 +143,6 @@ Aplicação desenvolvida em **Java** para automatizar o desligamento do computad
 
 ### Obrigado por visitar meu perfil!
 
-*"Aprendendo hoje para desenvolver as soluções de amanhã."*
+*"Transformando ideias em soluções."*
 
 </div>
