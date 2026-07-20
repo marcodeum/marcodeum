@@ -23,9 +23,9 @@ Atualmente busco evoluir constantemente por meio de estudos, projetos práticos 
 
 ## 🎓 Formação
 
-- 🎓 Técnico em Informática — SENAI (Em andamento)
-- ☕ Programação com Java e C# .NET — SENAI
-- 💻 Metodologias de Desenvolvimento de Software — SENAI
+- 🎓 Técnico em Informática  —  SENAI (Em andamento)
+- ☕ Programação com Java e C# .NET  —  SENAI
+- 💻 Metodologias de Desenvolvimento de Software  —  SENAI
 
 ---
 
