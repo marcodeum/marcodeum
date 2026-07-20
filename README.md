@@ -11,21 +11,21 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Técnico em TI e Desenvolvedor Júnior, apaixonado por tecnologia e desenvolvimento de software.
+Sou Técnico em TI e Desenvolvedor Júnior, sempre em busca de novos conhecimentos.
 
 Tenho experiência no desenvolvimento de aplicações desktop e web utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais.
 
 Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
 
-🎓 Pretendo cursar **Análise e Desenvolvimento de Sistemas (ADS)** ou **Engenharia de Software**.
+🎓 Pretendo cursar **Análise e Desenvolvimento de Sistemas (ADS)** e, posteriormente, **Engenharia de Software**.
 
 ---
 
 ## 🎓 Formação
 
-- 🎓 Técnico em TI — SENAI
-- ☕ Programação com Java e C#
-- 💻 Desenvolvimento de Software
+- 🎓 Técnico em TI — SENAI (Em andamento)
+- ☕ Programação com Java e C# — SENAI
+- 💻 Desenvolvimento de Software — SENAI
 
 ---
 
@@ -79,14 +79,9 @@ Atualmente busco evoluir constantemente por meio de estudos, projetos práticos 
 
 Calculadora desenvolvida em **C#** utilizando **Windows Forms**.
 
-**Tecnologias**
+**Tecnologias:** C# • Windows Forms
 
-- C#
-- Windows Forms
-
-🔗 Repositório
-
-https://github.com/marcodeum/mtpns-winforms-calculator
+🔗 **Repositório:** [Winforms Calculator](https://github.com/marcodeum/mtpns-winforms-calculator)
 
 ---
 
@@ -94,13 +89,9 @@ https://github.com/marcodeum/mtpns-winforms-calculator
 
 Sistema CRUD desenvolvido em **Java**, permitindo cadastro, consulta, edição e exclusão de usuários.
 
-**Tecnologias**
+**Tecnologias:** Java
 
-- Java
-
-🔗 Repositório
-
-https://github.com/marcodeum/CRUD-de-Usuarios
+🔗 **Repositório:** [CRUD de Usuários](https://github.com/marcodeum/CRUD-de-Usuarios)
 
 ---
 
@@ -108,13 +99,9 @@ https://github.com/marcodeum/CRUD-de-Usuarios
 
 Sistema para gerenciamento de contatos desenvolvido em **Java**.
 
-**Tecnologias**
+**Tecnologias:** Java
 
-- Java
-
-🔗 Repositório
-
-https://github.com/marcodeum/mtpns-agenda-de-contatos
+🔗 **Repositório:** [Agenda de Contatos](https://github.com/marcodeum/mtpns-agenda-de-contatos)
 
 ---
 
@@ -122,13 +109,9 @@ https://github.com/marcodeum/mtpns-agenda-de-contatos
 
 Aplicação desenvolvida em **Java** para automatizar o desligamento do computador.
 
-**Tecnologias**
+**Tecnologias:** Java
 
-- Java
-
-🔗 Repositório
-
-https://github.com/marcodeum/ShutdownScheduler
+🔗 **Repositório:** [Shutdown Scheduler](https://github.com/marcodeum/ShutdownScheduler)
 
 ---
 
@@ -142,26 +125,21 @@ https://github.com/marcodeum/ShutdownScheduler
 
 </p>
 
-> **Caso as estatísticas não apareçam, normalmente é porque o serviço está temporariamente indisponível ou ainda não indexou sua conta. Não é um problema do README.**
 
 ---
 
 ## 📫 Contato
 
-📧 **Email**
+📧 **Email:** <marco.souza300322@gmail.com>
 
-**marco.souza300322@gmail.com**
-
-🐙 **GitHub**
-
-**https://github.com/marcodeum**
+🐙 **GitHub:** <https://github.com/marcodeum>
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### Obrigado por visitar meu perfil!
 
-*"Transformando ideias em código, um projeto de cada vez."*
+*"Aprendendo hoje para desenvolver as soluções de amanhã."*
 
 </div>
