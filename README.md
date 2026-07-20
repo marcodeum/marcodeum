@@ -61,8 +61,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estudo p
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
