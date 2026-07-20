@@ -1,7 +1,7 @@
 # 👋 Bem-vindo, sou o Marco Túlio
 Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softwares, apps e sistemas<br>
 Pretendo fazer Engenharia de Software
-<hr>
+
 ## 🎓 Formações
 * Técnico de TI - SENAI
 * Programação com Java e C# - SENAI
@@ -11,6 +11,7 @@ Pretendo fazer Engenharia de Software
 ## 🤖 Linguagens
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="50" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
