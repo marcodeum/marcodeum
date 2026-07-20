@@ -1,22 +1,28 @@
 # 👋 Olá! Eu sou Marco Túlio
 
-💻 **Técnico em TI | Desenvolvedor Júnior**
+<p align="left">
+  💻 <strong>Técnico em TI</strong> • Desenvolvedor Júnior <br>
+  📍 Brasil <br>
+  🎯 Em busca da minha primeira oportunidade como Desenvolvedor de Software.
+</p>
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estudo programação e desenvolvimento de aplicações, buscando aprimorar constantemente minhas habilidades e criar soluções eficientes para problemas do dia a dia.
+Sou apaixonado por tecnologia e desenvolvimento de software.
 
-🎯 **Objetivo:** cursar Engenharia de Software e construir uma carreira como desenvolvedor.
+Atualmente desenvolvo aplicações desktop e web utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais, sempre buscando aprimorar minhas habilidades por meio de estudos, projetos e novos desafios.
+
+🎓 Meu objetivo é construir uma carreira na área de desenvolvimento de software e cursar **Análise e Desenvolvimento de Sistemas (ADS)** ou **Engenharia de Software**.
 
 ---
 
-## 🎓 Formação
+# 🎓 Formação
 
 - 🎓 Técnico em TI — SENAI
-- ☕ Programação com Java e C# — SENAI
-- 💻 Desenvolvimento de Software — SENAI
+- ☕ Programação com Java e C#
+- 💻 Desenvolvimento de Software
 
 ---
 
-## 💻 Tecnologias
+# 💻 Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
@@ -28,7 +34,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estudo p
 
 ---
 
-## 🗄️ Banco de Dados
+# 🗄️ Banco de Dados
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
@@ -37,48 +43,72 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estudo p
 
 ---
 
-## 🛠️ Ferramentas
+# 🛠️ Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="45" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="45" alt="Visual Studio"/>
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-- 📚 Sistema Escolar (PHP + MySQL)
-- 👨‍🎓 Cadastro de Alunos
-- 🔐 Sistema de Login
-- 💻 Outros projetos disponíveis em meus repositórios.
+### 🖩 WinForms Calculator
+
+Aplicação desktop desenvolvida em **C# (Windows Forms)** para realização de operações matemáticas através de uma interface gráfica.
+
+🔗 **Repositório:**  
+https://github.com/marcodeum/mtpns-winforms-calculator
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 👥 CRUD de Usuários
+
+Aplicação desenvolvida em **Java** demonstrando operações de cadastro, consulta, edição e exclusão de usuários.
+
+🔗 **Repositório:**  
+https://github.com/marcodeum/CRUD-de-Usuarios
+
+---
+
+### 📞 Agenda de Contatos
+
+Sistema desenvolvido em **Java** para gerenciamento de contatos.
+
+🔗 **Repositório:**  
+https://github.com/marcodeum/mtpns-agenda-de-contatos
+
+---
+
+### ⏻ ShutdownScheduler
+
+Aplicação desenvolvida em **Java** para automatizar o desligamento do computador.
+
+🔗 **Repositório:**  
+https://github.com/marcodeum/ShutdownScheduler
+
+---
+
+# 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Atualmente estudando
+# 📫 Contato
 
-- Desenvolvimento Back-end
-- Banco de Dados
-- Programação Orientada a Objetos
-- Boas práticas de desenvolvimento
+📧 **Email:**  
+**marco.souza300322@gmail.com**
 
----
-
-## 📫 Contato
-
-📧 **Email:** marco.souza300322@gmail.com
+🐙 **GitHub:**  
+**https://github.com/marcodeum**
 
 ---
 
@@ -86,6 +116,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estudo p
 
 ### ⭐ Obrigado por visitar meu perfil!
 
-*"A tecnologia move o mundo, e aprender continuamente é o caminho para criar grandes soluções."*
+*"Transformando ideias em código, um projeto de cada vez."*
 
 </div>
