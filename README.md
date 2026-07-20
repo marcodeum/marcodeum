@@ -2,7 +2,7 @@
 Sou técnico de TI e desenvolvedor júnior, estou aprendendo a desenvolver softwares, apps e sistemas<br>
 Pretendo fazer Engenharia de Software
 
-
+<br>
 
 ## 🎓 Formações
 * Técnico de TI - SENAI
