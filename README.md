@@ -131,8 +131,6 @@ Aplicação para automatizar o desligamento do computador.
 
 ### Obrigado por visitar meu perfil!
 
-*"Transformando ideias em soluções."*
-
 <img width="165" height="165" alt="chomikDance" src="https://github.com/user-attachments/assets/521f5c78-74a7-4af4-8d39-8a16557c1354" />
 
 </div>
