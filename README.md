@@ -17,7 +17,7 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 
 Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
 
-🎓 Pretendo cursar **Análise e Desenvolvimento de Sistemas (ADS)** e, posteriormente, **Engenharia de Software**.
+🎓 Pretendo cursar **Engenharia de Software**.
 
 ---
 
