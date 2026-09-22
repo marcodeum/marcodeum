@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=150&section=header&text=Marco%20Túlio&fontSize=48&fontColor=A9FEF7&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=150&section=header&text=Marco%20Túlio&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/marcodeum">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FE428E&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+em+Inform%C3%A1tica+(em+forma%C3%A7%C3%A3o)+%F0%9F%92%BB;Desenvolvedor+J%C3%BAnior+%E2%80%A2+Java%2C+C%23+e+PHP+%E2%98%95;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Buscando+minha+primeira+oportunidade+%F0%9F%8E%AF" alt="Typing SVG" />
