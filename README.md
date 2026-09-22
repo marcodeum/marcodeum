@@ -1,136 +1,113 @@
-# 👋 Olá! Eu sou Marco Túlio
+<!-- Banner de Boas-Vindas Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Marco%20Túlio!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Júnior%20|%20Técnico%20em%20Informática&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="left">
-  💻 <strong>Técnico em Informática (em formação)</strong> • Desenvolvedor Júnior <br>
-  ☕ Java • C# .NET • PHP • SQL <br>
-  📍 Brasil <br>
-  🎯 Buscando minha primeira oportunidade na área de desenvolvimento de software.
-</p>
+<!-- Contador de Visitantes -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marcodeum/count.svg" alt="Contador de Visitantes" />
+</div>
 
----
+<div align="center">
+  <p> 📍 Minas Gerais, Brasil &nbsp; | &nbsp; 🎯 Buscando minha primeira oportunidade na área de desenvolvimento de software </p>
+</div>
+
+<br>
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Técnico em Informática e Desenvolvedor Júnior, com foco em desenvolvimento de software.
+Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente estudante do curso Técnico em Informática no SENAI. Tenho experiência na construção de aplicações, automações e sistemas CRUD utilizando **Java, C#, PHP** e **Bancos de Dados Relacionais**.
 
-Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais.
+Meu foco atual é evoluir constantemente através de estudos, projetos práticos e novos desafios, visando construir uma carreira sólida na área de engenharia de software. 
 
-Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
-
-🎓 Pretendo cursar **Engenharia de Software**.
+🎓 **Próximo passo:** Iniciar minha graduação em **Engenharia de Software**.
 
 ---
 
-## 🎓 Formação
-
-- 🎓 Técnico em TI  —  SENAI (Em andamento)
-- ☕ Programação com Java e C# .NET  —  SENAI
-- 💻 Metodologias de Desenvolvimento de Software  —  SENAI
-
----
-
-## 💻 Tecnologias
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
-
-</p>
-
----
-
-## 🗄️ Banco de Dados
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite"/>
-
-</p>
-
-**Conhecimentos**
-
-- SQL
-- Modelagem de Banco de Dados
-- MySQL
-- SQLite
-- Desenvolvimento de CRUDs
-  
----
-
-## 🛠️ Ferramentas
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="45" alt="Visual Studio"/>
-
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🖩 WinForms Calculator
-
-Aplicação desktop de calculadora para Windows.
-
-**Tecnologias:** C# • Windows Forms
-
-🔗 **Repositório:** [Winforms Calculator](https://github.com/marcodeum/mtpns-winforms-calculator)
-
----
-
-### 👥 CRUD de Usuários
-
-Sistema CRUD desenvolvido para permitir cadastro, consulta, atualização e exclusão de usuários.
-
-**Tecnologias:** Java
-
-🔗 **Repositório:** [CRUD de Usuários](https://github.com/marcodeum/CRUD-de-Usuarios)
-
----
-
-### 📞 Agenda de Contatos
-
-Sistema para gerenciamento de contatos.
-
-**Tecnologias:** Java
-
-🔗 **Repositório:** [Agenda de Contatos](https://github.com/marcodeum/mtpns-agenda-de-contatos)
-
----
-
-### ⏻ ShutdownScheduler
-
-Aplicação para automatizar o desligamento do computador.
-
-**Tecnologias:** Java
-
-🔗 **Repositório:** [Shutdown Scheduler](https://github.com/marcodeum/ShutdownScheduler)
-
----
-
-## 📫 Contato
-
-📧 **Email:** <marco.souza300322@gmail.com>
-
-🐙 **GitHub:** <https://github.com/marcodeum>
-
----
+## 📊 Minhas Estatísticas e Contribuições
 
 <div align="center">
+  <!-- Estatísticas do GitHub criadas por @anuraghazra -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195" alt="Estatísticas do GitHub de Marco"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=radical" height="195" alt="Linguagens mais usadas por Marco"/>
+  </a>
+</div>
 
-### Obrigado por visitar meu perfil!
+<br>
 
-<img width="165" height="165" alt="chomikDance" src="https://github.com/user-attachments/assets/521f5c78-74a7-4af4-8d39-8a16557c1354" />
+### 👾 Contribuições como o "Jogo da Vida"
+*(Inspirado na contribuição de @ethomson, que transforma o gráfico de contribuições em uma simulação do Jogo da Vida de Conway!)*
+<div align="center">
+  <!-- Para que isso funcione, veja a dica no final deste chat para configurar o GitHub Actions -->
+  <img src="https://raw.githubusercontent.com/marcodeum/marcodeum/main/profile-summary-card-output/default/0-profile-details.svg" width="80%" alt="Gráfico de Contribuições">
+</div>
 
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Linguagens
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" title="C#" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET" title=".NET" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" title="PHP" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS"/>
+</div>
+
+### 🗄️ Banco de Dados (Modelagem, MySQL, SQLite, CRUD)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" title="SQLite"/>
+</div>
+
+### 🛠️ Ferramentas e IDEs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ" title="IntelliJ" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="50" alt="Visual Studio" title="Visual Studio"/>
+</div>
+
+---
+
+## 🏆 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/marcodeum/mtpns-winforms-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-winforms-calculator&theme=radical" width="48%" alt="Winforms Calculator"/>
+  </a>
+  <a href="https://github.com/marcodeum/CRUD-de-Usuarios">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=CRUD-de-Usuarios&theme=radical" width="48%" alt="CRUD de Usuários"/>
+  </a>
+  <a href="https://github.com/marcodeum/mtpns-agenda-de-contatos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-agenda-de-contatos&theme=radical" width="48%" alt="Agenda de Contatos"/>
+  </a>
+  <a href="https://github.com/marcodeum/ShutdownScheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=ShutdownScheduler&theme=radical" width="48%" alt="Shutdown Scheduler"/>
+  </a>
+</div>
+
+---
+
+## 📫 Vamos nos conectar!
+
+<div align="center">
+  <a href="mailto:marco.souza300322@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Recomendo adicionar seu LinkedIn aqui assim que possível! -->
+  <!-- <a href="https://linkedin.com/in/SEULINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Obrigado por visitar meu perfil! 🚀</h3>
+  <img width="165" height="165" alt="chomikDance" src="https://github.com/user-attachments/assets/521f5c78-74a7-4af4-8d39-8a16557c1354" />
 </div>
