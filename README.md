@@ -105,10 +105,6 @@ const marcoTulio = {
 
 ## 📊 Minhas Estatísticas no GitHub
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&cache_seconds=86400" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&theme=radical&cache_seconds=86400" width="10%"/>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=marcodeum&theme=radical" alt="Sequência de contribuições"/>
 </p>
