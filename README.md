@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32495261/README.md)
+[README (1).md](https://github.com/user-attachments/files/32495787/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=150&section=header&text=Marco%20Túlio&fontSize=48&fontColor=A9FEF7&fontAlignY=38&animation=fadeIn" width="100%"/>
@@ -26,17 +26,21 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 
 🎓 Pretendo cursar **Engenharia de Software**.
 
+> 🚧 **Agora:** desenvolvendo o [`hotel`](https://github.com/marcodeum/hotel), um sistema para cadastro e reservas de hotel, no curso técnico do SENAI.
+
 ```javascript
 const marcoTulio = {
-  "formação": "Técnico em Informática (SENAI) — em andamento",
-  "cargo": "Desenvolvedor Júnior",
-  "stack": ["Java", "C#", ".NET", "PHP", "SQL"],
-  "bancoDeDados": ["MySQL", "SQLite"],
-  "objetivo": "Ingressar em Engenharia de Software",
-  "status": "🟢 Disponível para novas oportunidades"
+  formação: "Técnico em Informática (SENAI) — em andamento",
+  cargo: "Desenvolvedor Júnior",
+  stack: ["Java", "C#", ".NET", "PHP", "SQL"],
+  bancoDeDados: ["MySQL", "SQLite"],
+  projetoAtual: "Cadastro e reservas de hotel (SENAI)",
+  objetivo: "Ingressar em Engenharia de Software",
+  status: "🟢 Disponível para novas oportunidades"
 };
 ```
 
+- 🏨 Construindo um sistema de cadastro e reservas de hotel no SENAI
 - 🔭 Aprofundando conhecimentos em **Java**, **C# / .NET** e **PHP**
 - 🌱 Próximo passo: **Engenharia de Software**
 - 👯 Aberto a colaborar em projetos de CRUDs, sistemas desktop e automações
@@ -85,29 +89,31 @@ const marcoTulio = {
 
 ---
 
+## 🚀 Projetos em Destaque
+
+| | Projeto | Descrição | Tech |
+|:--:|---|---|---|
+| 🏨 | **[hotel](https://github.com/marcodeum/hotel)** | Sistema para cadastro e reservas de hotel — projeto atual no SENAI | ![em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-F8D866?style=flat-square&labelColor=141321) ![HTML5](https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=FE428E) |
+| 👥 | **[CRUD-de-Usuarios](https://github.com/marcodeum/CRUD-de-Usuarios)** | CRUD completo de usuários com persistência em banco de dados | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=A9FEF7) ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat-square&logo=mysql&logoColor=F8D866) |
+| 🧮 | **[mtpns-winforms-calculator](https://github.com/marcodeum/mtpns-winforms-calculator)** | Calculadora desktop feita com Windows Forms | ![C#](https://img.shields.io/badge/C%23-141321?style=flat-square&logo=csharp&logoColor=A9FEF7) ![.NET](https://img.shields.io/badge/.NET-141321?style=flat-square&logo=dotnet&logoColor=FE428E) |
+| 📇 | **[mtpns-agenda-de-contatos](https://github.com/marcodeum/mtpns-agenda-de-contatos)** | Agenda de contatos com cadastro, edição e exclusão | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=A9FEF7) |
+| ⏻ | **[ShutdownScheduler](https://github.com/marcodeum/ShutdownScheduler)** | Utilitário para agendar o desligamento do computador | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=A9FEF7) |
+
+<p align="center"><sub>Mais repositórios (trabalhos de POO, listas de exercícios) no <a href="https://github.com/marcodeum?tab=repositories">meu perfil</a>.</sub></p>
+
+---
+
 ## 📊 Minhas Estatísticas no GitHub
 
 <table align="center">
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&theme=radical" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&cache_seconds=86400" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&theme=radical&cache_seconds=86400" width="100%"/></td>
 </tr>
 </table>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=marcodeum&theme=radical" alt="Sequência de contribuições"/>
-</p>
-
-### 🏆 Troféus
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marcodeum&theme=radical&column=-1&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-</p>
-
-### 📈 Atividade recente
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcodeum&bg_color=141321&color=A9FEF7&line=FE428E&point=FE428E&area=true&area_color=FE428E&hide_border=true&custom_title=Minha%20Atividade%20no%20GitHub" width="100%"/>
 </p>
 
 ### 🐍 A cobrinha come minhas contribuições
@@ -121,25 +127,6 @@ const marcoTulio = {
   <img alt="Animação da cobrinha comendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/marcodeum/marcodeum/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/marcodeum/mtpns-winforms-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-winforms-calculator&theme=radical" width="48%" alt="Winforms Calculator"/>
-  </a>
-  <a href="https://github.com/marcodeum/CRUD-de-Usuarios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=CRUD-de-Usuarios&theme=radical" width="48%" alt="CRUD de Usuários"/>
-  </a>
-  <a href="https://github.com/marcodeum/mtpns-agenda-de-contatos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-agenda-de-contatos&theme=radical" width="48%" alt="Agenda de Contatos"/>
-  </a>
-  <a href="https://github.com/marcodeum/ShutdownScheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=ShutdownScheduler&theme=radical" width="48%" alt="Shutdown Scheduler"/>
-  </a>
-</div>
 
 ---
 
