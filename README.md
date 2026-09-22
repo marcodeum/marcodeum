@@ -27,8 +27,12 @@ Meu foco atual é evoluir constantemente através de estudos, projetos práticos
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/marcodeum)
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=radical)](https://github.com/marcodeum)
+  <a href="https://github.com/marcodeum">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195" alt="Estatísticas do GitHub"/>
+  </a>
+  <a href="https://github.com/marcodeum">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=radical" height="195" alt="Linguagens mais usadas"/>
+  </a>
 </div>
 
 ---
@@ -65,10 +69,18 @@ Meu foco atual é evoluir constantemente através de estudos, projetos práticos
 ## 🏆 Projetos em Destaque
 
 <div align="center">
-  [![Winforms Calculator](https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-winforms-calculator&theme=radical)](https://github.com/marcodeum/mtpns-winforms-calculator)
-  [![CRUD de Usuários](https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=CRUD-de-Usuarios&theme=radical)](https://github.com/marcodeum/CRUD-de-Usuarios)
-  [![Agenda de Contatos](https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-agenda-de-contatos&theme=radical)](https://github.com/marcodeum/mtpns-agenda-de-contatos)
-  [![Shutdown Scheduler](https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=ShutdownScheduler&theme=radical)](https://github.com/marcodeum/ShutdownScheduler)
+  <a href="https://github.com/marcodeum/mtpns-winforms-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-winforms-calculator&theme=radical" width="48%" alt="Winforms Calculator"/>
+  </a>
+  <a href="https://github.com/marcodeum/CRUD-de-Usuarios">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=CRUD-de-Usuarios&theme=radical" width="48%" alt="CRUD de Usuários"/>
+  </a>
+  <a href="https://github.com/marcodeum/mtpns-agenda-de-contatos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-agenda-de-contatos&theme=radical" width="48%" alt="Agenda de Contatos"/>
+  </a>
+  <a href="https://github.com/marcodeum/ShutdownScheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=ShutdownScheduler&theme=radical" width="48%" alt="Shutdown Scheduler"/>
+  </a>
 </div>
 
 ---
