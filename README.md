@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/32495787/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=150&section=header&text=Marco%20Túlio&fontSize=48&fontColor=A9FEF7&fontAlignY=38&animation=fadeIn" width="100%"/>
