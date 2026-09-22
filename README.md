@@ -90,7 +90,7 @@ const marcoTulio = {
 
 | | Projeto | Descrição | Tech |
 |:--:|---|---|---|
-| 🏨 | **[hotel](https://github.com/marcodeum/hotel)** | Sistema para cadastro e reservas de hotel — projeto atual no SENAI | ![em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-F8D866?style=flat-square&labelColor=141321) ![HTML5](https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=FE428E) ![PHP](https://img.shields.io/badge/PHP-141321?style=flat-square&logo=PHP&logoColor=FE428E) ![CSS3](https://img.shields.io/badge/CSS-141321?style=flat-square&logo=CSS&logoColor=FE428E) |
+| 🏨 | **[hotel](https://github.com/marcodeum/hotel)** | Sistema para cadastro e reservas de hotel — projeto atual no SENAI | ![em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-F8D866?style=flat-square&labelColor=141321) ![HTML5](https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=FE428E) ![PHP](https://img.shields.io/badge/PHP-141321?style=flat-square&logo=PHP&logoColor=777BB4) ![CSS3](https://img.shields.io/badge/CSS-141321?style=flat-square&logo=CSS&logoColor=0070BA) |
 | 👥 | **[CRUD-de-Usuarios](https://github.com/marcodeum/CRUD-de-Usuarios)** | CRUD completo de usuários com persistência em banco de dados | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=A9FEF7) ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat-square&logo=mysql&logoColor=F8D866) |
 | 🧮 | **[mtpns-winforms-calculator](https://github.com/marcodeum/mtpns-winforms-calculator)** | Calculadora desktop feita com Windows Forms | ![C#](https://img.shields.io/badge/C%23-141321?style=flat-square&logo=csharp&logoColor=A9FEF7) ![.NET](https://img.shields.io/badge/.NET-141321?style=flat-square&logo=dotnet&logoColor=FE428E) |
 | 📇 | **[mtpns-agenda-de-contatos](https://github.com/marcodeum/mtpns-agenda-de-contatos)** | Agenda de contatos com cadastro, edição e exclusão | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=A9FEF7) |
@@ -106,7 +106,7 @@ const marcoTulio = {
 <img src="https://streak-stats.demolab.com/?user=marcodeum&theme=radical" alt="Sequência de contribuições"/>
 </p>
 
-### 🐍 A cobrinha come minhas contribuições
+### 🐍 Minhas Contribuições
 
 <p align="center">
 <picture>
