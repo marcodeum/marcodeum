@@ -1,9 +1,11 @@
 <!-- Banner de Boas-Vindas Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Marco%20Túlio!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Júnior%20|%20Técnico%20em%20Informática&descAlignY=55&descAlign=50" width="100%"/>
-
-<!-- Contador de Visitantes -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/marcodeum/count.svg" alt="Contador de Visitantes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Marco%20Túlio!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Júnior%20|%20Técnico%20em%20Informática&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<!-- Contador de Visitantes Estável -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcodeum&label=VISITAS&color=blue&style=flat-square" alt="Contador de Visitantes" />
 </div>
 
 <div align="center">
@@ -25,12 +27,11 @@ Meu foco atual é evoluir constantemente através de estudos, projetos práticos
 ## 📊 Minhas Estatísticas e Contribuições
 
 <div align="center">
-  <!-- Estatísticas do GitHub criadas por @anuraghazra -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195" alt="Estatísticas do GitHub de Marco"/>
+  <a href="https://github.com/marcodeum">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195" alt="Estatísticas do GitHub"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=radical" height="195" alt="Linguagens mais usadas por Marco"/>
+  <a href="https://github.com/marcodeum">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=radical" height="195" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
@@ -39,7 +40,7 @@ Meu foco atual é evoluir constantemente através de estudos, projetos práticos
 ### 👾 Contribuições como o "Jogo da Vida"
 *(Inspirado na contribuição de @ethomson, que transforma o gráfico de contribuições em uma simulação do Jogo da Vida de Conway!)*
 <div align="center">
-  <!-- Para que isso funcione, veja a dica no final deste chat para configurar o GitHub Actions -->
+  <!-- Requer configuração do GitHub Actions no repositório ethomson/readme-conway -->
   <img src="https://raw.githubusercontent.com/marcodeum/marcodeum/main/profile-summary-card-output/default/0-profile-details.svg" width="80%" alt="Gráfico de Contribuições">
 </div>
 
@@ -99,10 +100,6 @@ Meu foco atual é evoluir constantemente através de estudos, projetos práticos
   <a href="mailto:marco.souza300322@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <!-- Recomendo adicionar seu LinkedIn aqui assim que possível! -->
-  <!-- <a href="https://linkedin.com/in/SEULINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
 </div>
 
 <br>
