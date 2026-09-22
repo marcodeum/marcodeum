@@ -107,14 +107,10 @@ const marcoTulio = {
 
 <table align="center">
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&cache_seconds=86400" width="50%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&theme=radical&cache_seconds=86400" width="50%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical&cache_seconds=86400" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&theme=radical&cache_seconds=86400" width="10%"/></td>
 </tr>
 </table>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=marcodeum&theme=radical" alt="Sequência de contribuições"/>
-</p>
 
 ### 🐍 A cobrinha come minhas contribuições
 
