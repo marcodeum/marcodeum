@@ -58,10 +58,10 @@ const marcoTulio = {
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JS" />
 </p>
 
 **🗄️ Banco de Dados**
@@ -126,48 +126,20 @@ const marcoTulio = {
 
 ## 🚀 Projetos em Destaque
 
-<table align="center">
-<tr>
-<td width="50%">
-
-**🖩 WinForms Calculator**
-Aplicação desktop de calculadora para Windows.
-<br/>*C# • Windows Forms*
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-winforms-calculator&theme=radical" width="100%"/>
-
-</td>
-<td width="50%">
-
-**👥 CRUD de Usuários**
-Cadastro, consulta, atualização e exclusão de usuários.
-<br/>*Java*
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=CRUD-de-Usuarios&theme=radical" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📞 Agenda de Contatos**
-Sistema para gerenciamento de contatos.
-<br/>*Java*
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-agenda-de-contatos&theme=radical" width="100%"/>
-
-</td>
-<td width="50%">
-
-**⏻ ShutdownScheduler**
-Aplicação para automatizar o desligamento do computador.
-<br/>*Java*
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=ShutdownScheduler&theme=radical" width="100%"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://github.com/marcodeum/mtpns-winforms-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-winforms-calculator&theme=radical" width="48%" alt="Winforms Calculator"/>
+  </a>
+  <a href="https://github.com/marcodeum/CRUD-de-Usuarios">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=CRUD-de-Usuarios&theme=radical" width="48%" alt="CRUD de Usuários"/>
+  </a>
+  <a href="https://github.com/marcodeum/mtpns-agenda-de-contatos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=mtpns-agenda-de-contatos&theme=radical" width="48%" alt="Agenda de Contatos"/>
+  </a>
+  <a href="https://github.com/marcodeum/ShutdownScheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodeum&repo=ShutdownScheduler&theme=radical" width="48%" alt="Shutdown Scheduler"/>
+  </a>
+</div>
 
 ---
 
