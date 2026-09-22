@@ -25,8 +25,6 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 
 🎓 Pretendo cursar **Engenharia de Software**.
 
-> 🚧 **Agora:** desenvolvendo o [`hotel`](https://github.com/marcodeum/hotel), um sistema para cadastro e reservas de hotel, no curso técnico do SENAI.
-
 ```javascript
 const marcoTulio = {
   formação: "Técnico em Informática (SENAI) — em andamento",
@@ -110,8 +108,6 @@ const marcoTulio = {
 
 ### 🐍 A cobrinha come minhas contribuições
 
-<!-- Essa animação só aparece depois de ativar o GitHub Action "snake.yml" neste repositório
-     (pasta .github/workflows/). Ferramenta usada: https://github.com/Platane/snk -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcodeum/marcodeum/output/github-contribution-grid-snake-dark.svg" />
@@ -140,8 +136,6 @@ const marcoTulio = {
 ### Obrigado por visitar meu perfil! 🙌
 
 <img width="150" height="150" alt="chomikDance" src="https://github.com/user-attachments/assets/521f5c78-74a7-4af4-8d39-8a16557c1354" />
-
-<sub>Se algum projeto aqui te interessou, deixa uma ⭐ — isso ajuda muito quem tá começando!</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:141321&height=100&section=footer" width="100%"/>
 
