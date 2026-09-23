@@ -21,28 +21,9 @@
 
 Sou estudante de Técnico em Informática e Desenvolvedor Júnior, com foco em desenvolvimento de software.
 
-Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Java**, **C#**, **PHP** e bancos de dados relacionais. Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
+Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Java**, **C#**, **PHP**, **HTML**, **CSS** e bancos de dados relacionais. Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
 
 🎓 Pretendo cursar **Engenharia de Software**.
-
-```javascript
-const marcoTulio = {
-  formação: "Técnico em Informática (SENAI) — em andamento",
-  cargo: "Desenvolvedor Júnior",
-  stack: ["Java", "C#", ".NET", "PHP", "SQL"],
-  bancoDeDados: ["MySQL", "SQLite"],
-  projetoAtual: "Cadastro e reservas de hotel (SENAI)",
-  objetivo: "Ingressar em Engenharia de Software",
-  status: "🟢 Disponível para novas oportunidades"
-};
-```
-
-- 🏨 Construindo um sistema de cadastro e reservas de hotel no SENAI
-- 🔭 Aprofundando conhecimentos em **Java**, **C# / .NET** e **PHP**
-- 🌱 Próximo passo: **Engenharia de Software**
-- 👯 Aberto a colaborar em projetos de CRUDs, sistemas desktop e automações
-- 💬 Pode me chamar para falar sobre Java, C#, PHP ou bancos de dados relacionais
-- 📫 Como falar comigo: `marco.souza300322@gmail.com`
 
 ---
 
@@ -126,6 +107,9 @@ const marcoTulio = {
 </a>
 <a href="https://github.com/marcodeum">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+  <a href="https://wa.me/553194295932">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </p>
 
