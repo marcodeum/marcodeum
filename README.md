@@ -9,9 +9,9 @@
 <br/>
 
 [![Visitas](https://komarev.com/ghpvc/?username=marcodeum&label=Visitas&color=FE428E&style=for-the-badge)](https://github.com/marcodeum)
-![Status](https://img.shields.io/badge/status-aberto%20a%20oportunidades-A9FEF7?style=for-the-badge&labelColor=FE428E)
-![Localização](https://img.shields.io/badge/localização-brasil-F8D866?style=for-the-badge&labelColor=FE428E)
-[![Seguidores](https://img.shields.io/github/followers/marcodeum?style=for-the-badge&color=FE428E&labelColor=FE428E&logo=github&logoColor=white&label=seguidores)](https://github.com/marcodeum?tab=followers)
+![Status](https://img.shields.io/badge/status-aberto%20a%20oportunidades-A9FEF7?style=for-the-badge)
+![Localização](https://img.shields.io/badge/localização-brasil-F8D866?style=for-the-badge)
+[![Seguidores](https://img.shields.io/github/followers/marcodeum?style=for-the-badge&logo=github&logoColor=white&label=seguidores)](https://github.com/marcodeum?tab=followers)
 
 </div>
 
