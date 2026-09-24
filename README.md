@@ -116,7 +116,10 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 <a href="https://github.com/marcodeum">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-  <a href="https://wa.me/553194295932">
+<a href="linkedin.com/in/marcodeum-undefined-00017b43a">
+  <img src="https://shields.io" alt="LinkedIn"/>
+</a>
+<a href="https://wa.me/553194295932">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </p>
