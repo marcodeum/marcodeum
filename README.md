@@ -85,6 +85,9 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=marcodeum&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
