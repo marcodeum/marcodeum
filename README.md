@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=150&section=header&text=Marco%20Túlio&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=150&section=header&text=Marco%20Túlio&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Banner animado de boas-vindas"/>
 
 <a href="https://github.com/marcodeum">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FE428E&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+em+Inform%C3%A1tica+(em+forma%C3%A7%C3%A3o)+%F0%9F%92%BB;Desenvolvedor+J%C3%BAnior+%E2%80%A2+Java%2C+C%23+e+PHP+%E2%98%95;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Buscando+minha+primeira+oportunidade+%F0%9F%8E%AF" alt="Typing SVG" />
@@ -84,6 +84,11 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marcodeum&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodeum&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=marcodeum&theme=radical" alt="Sequência de contribuições"/>
 </p>
 
@@ -121,6 +126,6 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 
 <img width="150" height="150" alt="chomikDance" src="https://github.com/user-attachments/assets/521f5c78-74a7-4af4-8d39-8a16557c1354" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:141321&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:141321&height=100&section=footer" width="100%" alt="Banner animado de rodapé"/>
 
 </div>
