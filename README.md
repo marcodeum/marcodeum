@@ -21,7 +21,7 @@
 
 Sou estudante de Técnico em Informática e Desenvolvedor Júnior, com foco em desenvolvimento de software.
 
-Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Java**, **C#**, **PHP**, tecnologias web como **HTML**, **CSS** e bancos de dados relacionais. Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
+Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Java**, **C#**, **PHP**, tecnologias web como **HTML**, **CSS**, e bancos de dados relacionais. Atualmente busco evoluir constantemente por meio de estudos, projetos práticos e novos desafios, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
 
 🎓 Pretendo cursar **Engenharia de Software**.
 
