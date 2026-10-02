@@ -35,6 +35,11 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 
 ---
 
+## 🏅 Conquistas
+🥇 Medalha de Ouro — Olimpíada Brasileira de Língua Inglesa (OBLI)
+
+---
+
 ## 🛠️ Tecnologias
 
 <p align="center">
