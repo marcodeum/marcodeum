@@ -33,7 +33,6 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 - ☕ **Programação com Java e C# .NET** — SENAI
 - 💻 **Metodologias de Desenvolvimento de Software** — SENAI
 
----
 
 ## 🏅 Conquistas
 🥇 Medalha de Ouro — Olimpíada Brasileira de Língua Inglesa (OBLI)
