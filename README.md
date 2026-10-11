@@ -89,7 +89,6 @@ Tenho experiência no desenvolvimento de projetos e aplicações utilizando **Ja
 | 👥 | **[CRUD-de-Usuarios](https://github.com/marcodeum/CRUD-de-Usuarios)** | CRUD completo de usuários com persistência em banco de dados | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=007396) ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat-square&logo=mysql&logoColor=F8D866) |
 | 🧮 | **[mtpns-winforms-calculator](https://github.com/marcodeum/mtpns-winforms-calculator)** | Calculadora desktop feita com Windows Forms | ![C#](https://img.shields.io/badge/C%23-141321?style=flat-square&logo=csharp&logoColor=A9FEF7) ![.NET](https://img.shields.io/badge/.NET-141321?style=flat-square&logo=dotnet&logoColor=FE428E) |
 | 📇 | **[mtpns-agenda-de-contatos](https://github.com/marcodeum/mtpns-agenda-de-contatos)** | Agenda de contatos com cadastro, edição e exclusão | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=007396) |
-| ⏻ | **[ShutdownScheduler](https://github.com/marcodeum/ShutdownScheduler)** | Utilitário para agendar o desligamento do computador | ![Java](https://img.shields.io/badge/Java-141321?style=flat-square&logo=openjdk&logoColor=007396) |
 
 <p align="center"><sub>Mais repositórios (trabalhos de POO, listas de exercícios) no <a href="https://github.com/marcodeum?tab=repositories">meu perfil</a>.</sub></p>
 
